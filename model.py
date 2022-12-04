@@ -1,3 +1,4 @@
+# python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -7,6 +8,9 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
 import joblib
+from django.http import HttpResponse
+from django.shortcuts import render
+
 
 data=pd.read_csv(r'C:\Users\novaa\Desktop\model\flower_nursery_dataset2.csv')
 data=data.fillna(0)
@@ -28,3 +32,27 @@ print('accuracy is ',model.score(xtest,ytest))
 
 filename='finalmodeldataset.sav'
 joblib.dump(model,filename)
+
+
+
+# Create your views here.
+def home(request):
+    return render(request,'home.html')
+
+def result(request):
+    # return render(request,'result.html')
+    model=joblib.load('finalmodeldataset.sav')
+
+
+    lis=[]
+    
+    lis.append(request.GET['Season_blooms_from'])
+    lis.append(request.GET['Flower_family'])
+    lis.append(request.GET['Color'])
+    lis.append(request.GET['Shape'])
+    lis.append(request.GET['Height_feet_max'])
+    lis.append(request.GET['Min_price'])
+    lis.append(request.GET['Max_price'])
+ 
+    ans=model.predict([lis])
+    return render(request,'result.html',{'ans':ans})
