@@ -1,0 +1,136 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home page</title>
+    <link rel="stylesheet"  href="{% static '/style1.css'%} ">
+    
+</head>
+<body>
+    
+    
+   
+    <div class="home" id="home">
+    <form action="{% url 'result' %}">
+        {% csrf_token %} 
+        <h1 >Welcome to Flower Selection Classification</h1>
+        <h2>Enter the Details</h2><br>
+   
+        
+        <label for="Season_blooms_from" >Bloom Season:</label>
+        <select name="Season_blooms_from" id="sn">
+      
+        
+           <option value="  ...Select  Seasons... ">...Select  Seasons... </option>
+           <option value="8">Winter</option>
+           <option value="4">Late Winter</option>
+           <option value="0">Early Spring</option>
+           <option value="6">Spring</option>
+           <option value="3">Late Spring</option>
+           <option value="1">Early Summer</option>
+           <option value="7">Summer</option>
+           <option value="5">Mid Summer</option>
+           <option value="2">Late  Summer</option>
+        </select>
+        <br><br>
+      
+        <label for="Flower_family" >Flower Family:</label>
+        <select name="Flower_family" id="fl">
+      
+        
+           <option value="  ...Select Flower Family... ">   ...Select Flower Family... </option>
+           <option value="6">Iridaceae</option>
+           <option value="9">Orchidaceae</option>
+           <option value="11">Ranunculaceae</option>
+           <option value="1">Amaryllidaceae</option>
+           <option value="4">Brassicaceae</option>
+           <option value="3">Asteraceae</option>
+           <option value="5">Euphorbiaceae</option>
+           <option value="10">Papaveraceae</option>
+           <option value="2">Araceae</option>
+           <option value="8">Malvaceae</option>
+           <option value="0">Amaranthaceae</option>
+           <option value="7">Liliaceae</option>
+           <option value="12">Rosaceae</option>
+        </select>
+        <br><br>
+       
+        <label for="Color" >Color: </label>
+        <select name="Color" id="cl">
+        
+        
+           <option value="  ...Select  Color... ">  ...Select  Color... </option>
+           <option value="20">White</option> 
+           <option value="21">Yellow</option>
+           <option value="12">Pink</option>
+           <option value="7">Lavender</option>
+           <option value="17">Rose</option>
+           <option value="15">Purple</option>
+           <option value="2">Blue</option>
+           <option value="10">Orange</option>
+           <option value="4">Cream</option>
+           <option value="16">Red</option>
+           <option value="18">Salmon</option>
+           <option value="11">Peach</option>
+           <option value="19">Violet</option>
+           <option value="9">Maroon</option>
+           <option value="0">Apricot</option>
+           <option value="5">Gold</option>
+           <option value="6">Green</option>
+           <option value="3">Brown</option>
+           <option value="1">Black</option>
+           <option value="8">Magenta</option>
+           <option value="13">Plum</option>
+           <option value="14">Puple</option> 
+        </select>
+        <br><br>
+        
+        <label for="Shape" >Shape: </label>
+        <select name="Shape" id="sh"> 
+       
+        
+           <option value="  ...Select  Shape... ">  ...Select Shape... </option>
+           <option value="10">Funnel</option> -->
+           <option value="6">Cup</option>
+           <option value="17">Star</option>
+           <option value="15">Spike'</option>
+           <option value="1">Bell</option>
+           <option value="5">Cross</option>
+           <option value="7">Daisy</option>
+           <option value="12">Moon</option>
+           <option value="4">Cluster</option>
+           <option value="11">Globe</option>
+           <option value="19">Trumpet</option>
+           <option value="16">Spindle</option>
+           <option value="20">Umbrella</option>
+           <option value="8">Filler</option>
+           <option value="14">Saucer</option>
+           <option value="13">Pyramidal</option>
+           <option value="0">Ball</option>
+           <option value="9">Flat</option>
+           <option value="18">Triangular</option>
+           <option value="3">Celosia</option>
+           <option value="2">Bowl</option> 
+           
+           
+        </select>
+        <br><br>
+        
+        Plant Height:<input type="text" required name="Height_feet_max" id="height"><br><br>
+        Minimum Price:<input type="text" required name="Min_price" id="min"><br><br>
+        Maximum price:<input type="text" required name="Max_price" id="max"><br><br><br>
+        
+      
+   <input type="submit" name="" value="Submit" id="submit"><br><br><br><br>
+
+   
+       </form> 
+
+      </div>
+    
+    
+</body>
+</html>

@@ -1,0 +1,256 @@
+No.,Month,Season_blooms_from,Flower_family,Color,Shape,Height_feet_max,Min_price,Max_price,Flower_Name
+1,January,Winter,Iridaceae,white,Funnel,5,600,3000,Gladiolus
+2,January,Winter,Iridaceae,yellow,Funnel,5,765,2500,Gladiolus
+3,January,Winter,Iridaceae,pink,Funnel,,599,3200,Gladiolus
+4,January,Winter,Iridaceae,lavender,Funnel,5,650,4000,Gladiolus
+5,January,Winter,Iridaceae,rose,Funnel,5,899,3455,Gladiolus
+6,January,Winter,Iridaceae,purple,Funnel,,999,1200,Gladiolus
+7,February,Late Winter,Iridaceae,purple,Cup,0.5,799,1500,Crocus
+8,February,Late Winter,Iridaceae,lavender,Cup,0.5,845,2100,Crocus
+9,February,Late Winter,Iridaceae,blue,Cup,0.5,821,1400,Crocus
+10,February,Late Winter,Iridaceae,orange,Cup,0.5,879,32000,Crocus
+11,February,Late Winter,Iridaceae,yellow,Cup,,,6000,Crocus
+12,February,Late Winter,Iridaceae,cream,Cup,0.5,900,1555,Crocus
+13,February,Late Winter,Iridaceae,white,Cup,0.5,945,5455,Crocus
+14,February,Late Winter,Iridaceae,white,Funnel,1.5,750,6000,"Freesia,"
+15,February,Late Winter,Iridaceae,purple,Funnel,1.55,800,3500,"Freesia,"
+16,February,Late Winter,Iridaceae,red,Funnel,1.55,899,1200,"Freesia,"
+17,February,Late Winter,Iridaceae,yellow,Funnel,,745,2999,"Freesia,"
+18,February,Late Winter,Orchidaceae,white,Star,3,450,1449,Moth orchid
+19,February,Late Winter,Orchidaceae,purple,Star,3,500,1400,Moth orchid
+20,February,Late Winter,Orchidaceae,pink,Star,3,444,1300,Moth orchid
+21,February,Late Winter,Orchidaceae,salmon,Star,3,400,1449,Moth orchid
+22,February,Late Winter,Orchidaceae,yellow,Star,3,500,3450,Moth orchid
+23,February,Early Spring,Ranunculaceae,blue,Spike,9,,799,Aconite
+24,February,Early Spring,Ranunculaceae,purple,Spike,9,345,999,Aconite
+25,February,Early Spring,Ranunculaceae,yellow,Spike,9,245,345,Aconite
+26,February,Early Spring,Ranunculaceae,blue,Bell,3,125,800,Aquilegia
+27,February,Early Spring,Ranunculaceae,orange,Bell,3,399,600,Aquilegia
+28,February,Early Spring,Ranunculaceae,pink,Bell,,279,,Aquilegia
+29,February,Early Spring,Ranunculaceae,purple,Bell,3,410,320,Aquilegia
+30,February,Early Spring,Ranunculaceae,red,Bell,3,310,450,Aquilegia
+31,February,Early Spring,Ranunculaceae,white,Bell,3,399,569,Aquilegia
+32,February,Early Spring,Ranunculaceae,yellow,Bell,3,,895,Aquilegia
+33,February,Early Spring,Amaryllidaceae,red,Funnel,2,677,1700,Kaffir Lily
+34,February,Early Spring,Amaryllidaceae,yellow,Funnel,2,899,1200,Kaffir Lily
+35,February,Early Spring,Amaryllidaceae,peach,Funnel,2,745,1345,Kaffir Lily
+36,February,Early Spring,Amaryllidaceae,white,Funnel,2,945,3000,Kaffir Lily
+37,February,Early Spring,Brassicaceae,white,Cross,3,122,1099,Alyssum
+38,February,Early Spring,Brassicaceae,pink,Cross,3,299,2000,Alyssum
+39,February,Early Spring,Brassicaceae,purple,Cross,,15,1045,Alyssum
+40,February,Early Spring,Brassicaceae,red,Cross,3,122,4500,Alyssum
+41,February,Early Spring,Brassicaceae,violet,Cross,3,124,2200,Alyssum
+42,February,Early Spring,Brassicaceae,yellow,Cross,3,125,3999,Alyssum
+43,March,Spring,Ranunculaceae,white,Cup,3,155,,Anemone
+44,March,Spring,Ranunculaceae,pink,Cup,3,169,444,Anemone
+45,March,Spring,Ranunculaceae,red,Cup,3,177,1200,Anemone
+46,March,Spring,Ranunculaceae,blue,Cup,3,199,3200,Anemone
+47,March,Spring,Ranunculaceae,purple,Cup,3,199,2000,Anemone
+48,March,Spring,Ranunculaceae,yellow,Cup,3,165,1599,Anemone
+49,March,Spring,Ranunculaceae,white,Star,2,49,120,Nigella
+50,March,Spring,Ranunculaceae,pink,Star,2,50,879,Nigella
+51,March,Spring,Ranunculaceae,rose,Star,2,55,545,Nigella
+52,March,Spring,Ranunculaceae,violet,Star,,49,1499,Nigella
+53,March,Spring,Ranunculaceae,purple,Star,2,56,1099,Nigella
+54,March,Spring,Asteraceae,yellow,Daisy,3,677,2000,African Daisy
+55,March,Spring,Asteraceae,red,Daisy,3,880,,African Daisy
+56,March,Spring,Asteraceae,blue,Daisy,3,900,2300,African Daisy
+57,March,Spring,Asteraceae,purple,Daisy,3,1100,1999,African Daisy
+58,March,Spring,Asteraceae,white,Daisy,3,1200,4000,African Daisy
+59,March,Spring,Iridaceae,orange,Funnel,5,199,1000,Crocosmia
+60,March,Spring,Iridaceae,red,Funnel,5,345,,Crocosmia
+61,March,Spring,Iridaceae,yellow,Funnel,5,199,2999,Crocosmia
+62,March,Spring,Iridaceae,orange,Daisy,2,899,1055,French Marigold
+63,March,Spring,Iridaceae,yellow,Daisy,2,999,2085,French Marigold
+64,March,Spring,Iridaceae,red,Daisy,2,750,1999,French Marigold
+65,March,Spring,Brassicaceae,purple,Moon,3,,,Lunaria
+66,March,Spring,Brassicaceae,pink,Moon,3,99,5555,Lunaria
+67,March,Spring,Euphorbiaceae,yellow,Cup,2,449,2500,Euphorbia
+68,March,Spring,Euphorbiaceae,salmon,Cup,,400,1099,Euphorbia
+69,March,Spring,Euphorbiaceae,red,Cup,2,600,,Euphorbia
+70,March,Spring,Euphorbiaceae,orange,Cup,2,550,1099,Euphorbia
+71,March,Spring,Euphorbiaceae,pink,Cup,2,449,3200,Euphorbia
+72,April,Late Spring,Ranunculaceae,white,Cluster,2,23,99,Persian Buttercup
+73,April,Late Spring,Ranunculaceae,pink,Cluster,2,26,299,Persian Buttercup
+74,April,Late Spring,Ranunculaceae,yellow,Cluster,2,30,449,Persian Buttercup
+75,April,Late Spring,Ranunculaceae,purple,Cluster,2,22,988,Persian Buttercup
+76,April,Late Spring,Ranunculaceae,red,Cluster,2,25,699,Persian Buttercup
+77,April,Late Spring,Ranunculaceae,orange,Cluster,,25,99,Persian Buttercup
+78,April,Late Spring,Iridaceae,white,Globe,2,699,2999,Ixia
+79,April,Late Spring,Iridaceae,yellow,Globe,2,800,1100,Ixia
+80,April,Late Spring,Iridaceae,pink,Globe,2,745,3899,Ixia
+81,April,Late Spring,Iridaceae,lavender,Globe,2,698,5000,Ixia
+82,April,Late Spring,Iridaceae,rose,Globe,2,899,2999,Ixia
+83,April,Late Spring,Iridaceae,purple,Globe,2,750,1900,Ixia
+84,April,Late Spring,Iridaceae,yellow,Cup,1.67,599,2445,Tritonia
+85,April,Late Spring,Iridaceae,orange,Cup,1.67,490,4699,Tritonia
+86,April,Late Spring,Iridaceae,pink,Cup,1.67,600,1299,Tritonia
+87,April,Late Spring,Iridaceae,white,Cup,1.67,599,2500,Tritonia
+88,April,Late Spring,Papaveraceae,white,Cup,2,,1214,Iceland Poppy
+89,April,Late Spring,Papaveraceae,yellow,Cup,2,766,124,Iceland Poppy
+90,April,Late Spring,Papaveraceae,red,Cup,2,910,1214,Iceland Poppy
+91,April,Late Spring,Papaveraceae,yellow,Trumpet,2,999,1699,Calla Lily
+92,April,Late Spring,Papaveraceae,orange,Trumpet,2,720,3400,Calla Lily
+93,April,Late Spring,Papaveraceae,pink,Trumpet,2,699,1788,Calla Lily
+94,April,Late Spring,Papaveraceae,rose,Trumpet,2,745,1499,Calla Lily
+95,April,Late Spring,Papaveraceae,lavender,Trumpet,2,945,1500,Calla Lily
+96,April,Late Spring,Papaveraceae,maroon,Trumpet,2,900,1320,Calla Lily
+97,April,Late Spring,Papaveraceae,white,Trumpet,,569,3000,Calla Lily
+98,April,Spring,Orchidaceae,orange,Spindle,2,449,2000,Cattleya Orchid
+99,April,Spring,Orchidaceae,purple,Spindle,2,445,2400,Cattleya Orchid
+100,April,Spring,Orchidaceae,white,Spindle,2,199,1299,Cattleya Orchid
+101,April,Spring,Orchidaceae,yellow,Spindle,2,400,3200,Cattleya Orchid
+102,April,Spring,Orchidaceae,pink,Umbrella,6,899,1095,vanda
+103,April,Spring,Orchidaceae,orange,Umbrella,6,,4165,vanda
+104,April,Spring,Orchidaceae,red,Umbrella,6,899,,vanda
+105,April,Spring,Orchidaceae,purple,Umbrella,6,900,1344,vanda
+106,April,Early Summer,Ranunculaceae,purple,Star,8,190,989,Clematis
+107,April,Early Summer,Ranunculaceae,blue,Star,8,110,3400,Clematis
+108,April,Early Summer,Ranunculaceae,pink,Star,8,120,123,Clematis
+109,April,Early Summer,Ranunculaceae,white,Star,8,144,555,Clematis
+110,April,Early Summer,Ranunculaceae,red,Star,8,149,,Clematis
+111,April,Early Summer,Asteraceae,orange,Trumpet,3,677,1099,Blanket Flower
+112,April,Early Summer,Asteraceae,purple,Trumpet,3,689,2000,Blanket Flower
+113,April,Early Summer,Asteraceae,red,Trumpet,3,699,3488,Blanket Flower
+114,April,Early Summer,Asteraceae,white,Trumpet,3,,5211,Blanket Flower
+115,April,Early Summer,Asteraceae,yellow,Trumpet,3,699,2468,Blanket Flower
+116,April,Early Summer,Amaryllidaceae,blue,Funnel,6,900,3582,Agapanthus
+117,April,Early Summer,Amaryllidaceae,white,Funnel,6,678,999,Agapanthus
+118,April,Early Summer,Amaryllidaceae,purple,Funnel,6,666,1699,Agapanthus
+119,April,Early Summer,Amaryllidaceae,pink,Funnel,6,599,2000,Agapanthus
+120,April,Early Summer,Amaryllidaceae,red,Funnel,2,399,455,Amaryllis
+121,April,Early Summer,Amaryllidaceae,white,Funnel,2,345,3299,Amaryllis
+122,April,Early Summer,Amaryllidaceae,pink,Funnel,2,120,1019,Amaryllis
+123,April,Early Summer,Amaryllidaceae,salmon,Funnel,2,389,4300,Amaryllis
+124,April,Early Summer,Amaryllidaceae,apricot,Funnel,2,220,2400,Amaryllis
+125,April,Early Summer,Amaryllidaceae,rose,Funnel,2,399,1245,Amaryllis
+126,April,Early Summer,Amaryllidaceae,white,Trumpet,2,500,3445,Daffodil
+127,April,Early Summer,Amaryllidaceae,pink,Trumpet,2,,1199,Daffodil
+128,April,Early Summer,Amaryllidaceae,orange,Trumpet,2,400,2455,Daffodil
+129,April,Early Summer,Amaryllidaceae,yellow,Trumpet,2,300,4500,Daffodil
+130,April,Early Summer,Amaryllidaceae,gold,Trumpet,2,,2999,Daffodil
+131,April,Early Summer,Amaryllidaceae,salmon,Trumpet,2,399,999,Daffodil
+132,April,Early Summer,Amaryllidaceae,purple,Trumpet,2,299,4299,Daffodil
+133,April,Summer,Araceae,white,Globe,3,999,9000,Anthurium
+134,April,Summer,Araceae,green,Globe,3,900,8099,Anthurium
+135,April,Summer,Araceae,yellow,Globe,3,899,5800,Anthurium
+136,April,Summer,Araceae,orange,Globe,3,799,4500,Anthurium
+137,April,Summer,Araceae,pink,Globe,3,845,2445,Anthurium
+138,April,Summer,Araceae,salmon,Globe,3,789,6745,Anthurium
+139,April,Summer,Araceae,purple,Globe,3,945,8945,Anthurium
+140,April,Summer,Araceae,brown,Globe,3,990,6700,Anthurium
+141,April,Summer,Araceae,black,Globe,3,679,,Anthurium
+142,April,Summer,Araceae,red,Globe,3,999,5000,Anthurium
+143,May,Mid Summer,Asteraceae,blue,Filler,2,99,121,Ageratum
+144,May,Mid Summer,Asteraceae,pink,Filler,2,98,560,Ageratum
+145,May,Mid Summer,Asteraceae,purple,Filler,2,95,390,Ageratum
+146,May,Mid Summer,Asteraceae,lavender,Filler,2,91,789,Ageratum
+147,May,Mid Summer,Asteraceae,white,Filler,2,88,1342,Ageratum
+148,May,Mid Summer,Malvaceae,white,Trumpet,12,149,345,Hibiscus
+149,May,Mid Summer,Malvaceae,red,Trumpet,12,144,1045,Hibiscus
+150,May,Mid Summer,Malvaceae,pink,Trumpet,12,169,1999,Hibiscus
+151,May,Mid Summer,Malvaceae,blue,Trumpet,12,169,789,Hibiscus
+152,May,Mid Summer,Malvaceae,orange,Trumpet,12,144,3000,Hibiscus
+153,May,Mid Summer,Malvaceae,purple,Trumpet,12,169,620,Hibiscus
+154,May,Mid Summer,Malvaceae,yellow,Trumpet,12,149,2000,Hibiscus
+155,May,Mid Summer,Malvaceae,peach,Trumpet,12,149,359,Hibiscus
+156,May,Mid Summer,Malvaceae,pink,Saucer,8,90,765,Lavatera
+157,May,Mid Summer,Malvaceae,purple,Saucer,8,100,342,Lavatera
+158,May,Mid Summer,Malvaceae,white,Saucer,8,99,1655,Lavatera
+159,May,Mid Summer,Amaranthaceae,red,Pyramidal,5,500,2178,Plume Celosia
+160,May,Mid Summer,Amaranthaceae,orange,Pyramidal,5,250,2585,Plume Celosia
+161,May,Mid Summer,Amaranthaceae,yellow,Pyramidal,5,678,3199,Plume Celosia
+162,May,Mid Summer,Amaranthaceae,pink,Pyramidal,5,350,999,Plume Celosia
+163,May,Mid Summer,Amaranthaceae,magenta,Pyramidal,5,220,2888,Plume Celosia
+164,May,Mid Summer,Liliaceae,white,Trumpet,6,120,4045,Trumpet Lily
+165,May,Mid Summer,Liliaceae,gold,Trumpet,6,445,4555,Trumpet Lily
+166,May,Mid Summer,Liliaceae,yellow,Trumpet,6,750,3200,Trumpet Lily
+167,May,Mid Summer,Liliaceae,pink,Trumpet,6,900,1299,Trumpet Lily
+168,May,Mid Summer,Liliaceae,plum,Trumpet,6,150,4300,Trumpet Lily
+169,May,Mid Summer,Liliaceae,apricot,Trumpet,6,320,830,Trumpet Lily
+170,May,Summer,Amaryllidaceae,orange,Funnel,2,788,1100,Kaffir Lily
+171,May,Summer,Asteraceae,pink,Spike,3,50,120,Blazing Star
+172,May,Summer,Asteraceae,purple,Spike,3,60,690,Blazing Star
+173,May,Summer,Asteraceae,white,Spike,3,149,1154,Blazing Star
+174,May,Late  Summer,Asteraceae,orange,Globe,3,799,1999,Chrysanthemum
+175,May,Late  Summer,Asteraceae,pink,Globe,3,900,2899,Chrysanthemum
+176,May,Late  Summer,Asteraceae,purple,Globe,3,1200,4599,Chrysanthemum
+177,May,Late  Summer,Asteraceae,red,Globe,3,799,3300,Chrysanthemum
+178,May,Late  Summer,Asteraceae,white,Globe,3,900,1259,Chrysanthemum
+179,May,Late  Summer,Asteraceae,yellow,Globe,3,645,3488,Chrysanthemum
+180,May,Late  Summer,Asteraceae,orange,Daisy,3,800,1038,Chrysanthemum
+181,May,Late  Summer,Asteraceae,pink,Daisy,3,799,1999,Chrysanthemum
+182,May,Late  Summer,Asteraceae,purple,Daisy,3,459,3877,Chrysanthemum
+183,May,Late  Summer,Asteraceae,red,Daisy,3,,4255,Chrysanthemum
+184,May,Late  Summer,Asteraceae,white,Daisy,3,560,5188,Chrysanthemum
+185,May,Late  Summer,Asteraceae,yellow,Daisy,3,699,1999,Chrysanthemum
+186,May,Late  Summer,Asteraceae,orange,Ball,3,599,1200,Chrysanthemum
+187,May,Late  Summer,Asteraceae,red,Ball,3,789,3145,Chrysanthemum
+188,May,Late  Summer,Asteraceae,white,Ball,3,879,,Chrysanthemum
+189,May,Late  Summer,Asteraceae,yellow,Ball,3,999,3200,Chrysanthemum
+190,May,Late  Summer,Asteraceae,orange,Cluster,3,890,2500,Chrysanthemum
+191,May,Late  Summer,Asteraceae,red,Cluster,3,980,3100,Chrysanthemum
+192,May,Late  Summer,Asteraceae,white,Cluster,3,799,4500,Chrysanthemum
+193,May,Late  Summer,Asteraceae,yellow,Cluster,3,899,3788,Chrysanthemum
+194,May,Summer,Rosaceae,white,Cup,7,999,6770,Damask rose
+195,May,Summer,Rosaceae,pink,Cup,7,999,4321,Damask rose
+196,May,Summer,Rosaceae,pink,Bell,10,699,3567,China rose
+197,May,Summer,Rosaceae,red,Bell,10,800,2789,China rose
+198,May,Summer,Rosaceae,yellow,Bell,10,677,4210,China rose
+199,May,Summer,Rosaceae,white,Bell,10,647,,China rose
+200,May,Summer,Rosaceae,orange,Bell,10,560,,China rose
+201,May,Summer,Rosaceae,white,Cup,5,788,4000,beach rose
+202,May,Summer,Rosaceae,pink,Cup,5,769,3500,beach rose
+203,May,Summer,Rosaceae,purple,Cup,5,745,3000,beach rose
+204,May,Summer,Rosaceae,red,Cup,5,744,2499,beach rose
+205,May,Summer,Rosaceae,orange,Flat,2,999,1000,French rose
+206,May,Summer,Rosaceae,white,Flat,2,986,2999,French rose
+207,May,Summer,Rosaceae,pink,Flat,2,989,5432,French rose
+208,May,Summer,Rosaceae,purple,Flat,2,999,5600,French rose
+209,May,Summer,Rosaceae,red,Flat,2,988,4599,French rose
+210,May,Summer,Rosaceae,pink,Cup,6,444,3588,Sweet Brier
+211,May,Summer,Rosaceae,rose,Cup,6,449,1065,Sweet Brier
+212,May,Summer,Rosaceae,red,Cup,6,449,2065,Sweet Brier
+213,May,Summer,Rosaceae,white,Flat,10,299,1200,Multiflora rose
+214,May,Summer,Rosaceae,rose,Flat,10,249,2099,Multiflora rose
+215,May,Summer,Rosaceae,pink,Flat,10,249,4099,Multiflora rose
+216,May,Summer,Rosaceae,white,Flat,8,119,1000,Rosa glauca
+217,May,Summer,Rosaceae,pink,Flat,8,150,2500,Rosa glauca
+218,May,Summer,Rosaceae,white,Flat,10,449,3099,Rosa  moschasta
+219,May,Summer,Rosaceae,orange,Cluster,7,999,2000,westerland rose
+220,May,Summer,Rosaceae,pink,Globe,6,799,1200,Rosa villosa
+221,May,Summer,Amaryllidaceae,white,Trumpet,4,220,1200,Narcissus
+222,May,Summer,Amaryllidaceae,yellow,Trumpet,4,210,1199,Narcissus
+223,May,Summer,Amaryllidaceae,orange,Trumpet,4,205,1300,Narcissus
+224,May,Summer,Amaryllidaceae,pink,Trumpet,4,215,1199,Narcissus
+225,May,Summer,Amaryllidaceae,peach,Trumpet,4,220,1279,Narcissus
+226,May,Summer,Amaranthaceae,orange,Triangular,8,199,1000,Amaranthus
+227,May,Summer,Amaranthaceae,red,Triangular,8,199,1000,Amaranthus
+228,May,Summer,Amaranthaceae,white,Celosia,4,449,1099,Cockscomb
+229,May,Summer,Amaranthaceae,yellow,Celosia,4,899,,Cockscomb
+230,May,Summer,Amaranthaceae,orange,Celosia,4,449,1099,Cockscomb
+231,May,Summer,Amaranthaceae,red,Celosia,4,299,3400,Cockscomb
+232,May,Summer,Amaranthaceae,purple,Celosia,4,449,1099,Cockscomb
+233,May,Summer,Liliaceae,yellow,Bowl,8,900,2300,Orienpet Lilies
+234,May,Summer,Liliaceae,white,Bowl,8,945,2945,Orienpet Lilies
+235,May,Summer,Liliaceae,pink,Bowl,8,899,1299,Orienpet Lilies
+236,May,Summer,Liliaceae,red,Bowl,8,850,4000,Orienpet Lilies
+237,May,Summer,Liliaceae,red,Bowl,6,799,3000,Asiatic Lilies
+238,May,Summer,Liliaceae,yellow,Bowl,6,850,2999,Asiatic Lilies
+239,May,Summer,Liliaceae,orange,Bowl,6,759,4500,Asiatic Lilies
+240,May,Summer,Liliaceae,puple,Bowl,6,1200,3567,Asiatic Lilies
+241,May,Summer,Liliaceae,pink,Bowl,6,999,3445,Asiatic Lilies
+242,May,Summer,Liliaceae,white,Bowl,6,234,4000,Asiatic Lilies
+243,May,Late  Summer,Malvaceae,white,Funnel,6,99,129,Mallow
+244,May,Late  Summer,Malvaceae,pink,Funnel,6,99,569,Mallow
+245,May,Late  Summer,Malvaceae,purple,Funnel,6,87,1290,Mallow
+246,June,Late  Summer,Asteraceae,white,Cluster,5,400,999,Aster
+247,June,Late  Summer,Asteraceae,purple,Cluster,5,500,980,Aster
+248,June,Late  Summer,Asteraceae,blue,Cluster,5,320,949,Aster
+249,June,Late  Summer,Asteraceae,pink,Cluster,5,450,999,Aster
+250,June,Late  Summer,Amaryllidaceae,yellow,Trumpet,4,345,1500,Jonquil
+251,June,Late  Summer,Amaryllidaceae,white,Trumpet,4,600,1000,Jonquil
+252,June,Late  Summer,Liliaceae,white,Bowl,8,995,3899,Oriental Lily
+253,June,Late  Summer,Liliaceae,pink,Bowl,8,650,3000,Oriental Lily
+254,June,Late  Summer,Liliaceae,red,Bowl,8,995,1100,Oriental Lily
+255,June,Late  Summer,Liliaceae,yellow,Bowl,8,700,4999,Oriental Lily

@@ -1,0 +1,60 @@
+h1{
+    font-size: 40px;
+    font-weight: 510;
+    text-align:center;
+    padding-top: 5px;
+    display:block;
+    /* background: url(https://png.pngitem.com/pimgs/s/182-1829619_flower-header-hd-png-download.png); */
+    background-size:  60%;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow:1px 1px 5px rgb(165, 154, 6);
+    margin-left: -400px;
+    
+    
+
+}
+
+h2{
+    font-size: 25px;
+    font-weight: 2000;
+    margin-left: 20px;
+    text-decoration:underline 1.5px;
+}
+
+.home{
+    display:flow-root;
+    align-items:center;
+    min-height: 85vh;
+    background:url(https://st4.depositphotos.com/41651326/41766/i/450/depositphotos_417665434-stock-photo-orange-white-flowers-dahlias-yellow.jpg) no-repeat;
+    background-size:cover;
+    background-position:center;
+    /* text-align:center; */
+    padding-left: 370px;
+    font-size:106%;
+    
+    
+
+
+
+}
+
+#sn,#fl,#cl,#Shape,#sh,#height,#min,#max{
+    background-color: rgb(231, 235, 222);
+    
+    
+    
+    
+}
+
+#submit{
+    background-color: rgb(213, 213, 235);
+    margin: auto;
+    height: 25px;
+    width: 100px;
+    border-color: rgb(116, 116, 143);
+    border-radius: 10px;
+    margin-left: 60px;
+    cursor: pointer;
+    
+
+}
